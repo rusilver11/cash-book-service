@@ -1,0 +1,4 @@
+User:
+GET: 		api/user/:id		- get user by id
+POST: 		api/user 		    - post create user
+PUT/PATCH: 	api/user/:id		- patch update user
